@@ -12,9 +12,8 @@ You can test SAMS with images of Harry, Hermione, and Ron from Harry Potter, or 
 <img width="600" alt="Screenshot 2023-05-12 222304" src="https://github.com/SpicyChickenNoodleSoup/Student-Attendance-Management-System/assets/85361959/e175cb50-801b-49b9-9477-febbde47192c">
 
 ### Student Database
-<img width="647" alt="image" src="https://github.com/jolwnn/Student-Attendance-Management-System-MERN/assets/85361959/10dde0fe-86ce-413a-821f-2e42bf4095ba">
-<img width="641" alt="image" src="https://github.com/jolwnn/Student-Attendance-Management-System-MERN/assets/85361959/3b9f5de5-b1ad-4a4b-b654-2344198300a2">
-<img width="425" alt="image" src="https://github.com/jolwnn/Student-Attendance-Management-System-MERN/assets/85361959/95b4a239-91db-4e1b-bd03-599994a7947a">
+<img width="600" alt="image" src="https://github.com/jolwnn/Student-Attendance-Management-System-MERN/assets/85361959/10dde0fe-86ce-413a-821f-2e42bf4095ba">
+<img width="600" alt="image" src="https://github.com/jolwnn/Student-Attendance-Management-System-MERN/assets/85361959/3b9f5de5-b1ad-4a4b-b654-2344198300a2">
 
 Watch a video demonstration here:
 https://drive.google.com/file/d/1ONHOMKZ6h3T7in4Qv3VQl6rOKbkNKLtY/view?usp=sharing 
