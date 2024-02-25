@@ -7,6 +7,7 @@ You can test SAMS with images of Harry, Hermione, and Ron from Harry Potter, or 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/85361959/226543990-f04b578d-fced-4e5c-b1d4-e00a9e55791e.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/85361959/226542549-4e4ff4ef-9ccc-43b6-8936-d2a3adf6b77f.png">
 <img width="600" alt="Screenshot 2023-05-12 222304" src="https://github.com/SpicyChickenNoodleSoup/Student-Attendance-Management-System/assets/85361959/e175cb50-801b-49b9-9477-febbde47192c">
+[![Watch the video demo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/320px-Image_created_with_a_mobile_phone.png)](https://example.com/direct-link-to-video.mp4](https://drive.google.com/file/d/1ONHOMKZ6h3T7in4Qv3VQl6rOKbkNKLtY/view?usp=sharing) 
 
 Upcoming updates to this project:
 
