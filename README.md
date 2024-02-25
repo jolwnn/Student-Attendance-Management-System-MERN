@@ -1,4 +1,4 @@
-# Student-Attendance-Management-System-MERN-Version
+# Student Attendance Management System (MERN Version)
 Student attendance management system for the browser using face recognition on video input from user's webcam with face-api.js by @justadudewhohacks (JavaScript face recognition API for the browser and nodejs implemented on top of tensorflow.js core, more details can be found here https://github.com/justadudewhohacks/face-api.js/)
 This is a MERN stack web development project that builds on my previous work in https://github.com/jolwnn/Student-Attendance-Management-System.
 
