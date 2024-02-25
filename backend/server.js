@@ -151,7 +151,7 @@ function ourCleanup(req, res, next) {
 }
 
 async function start() {
-  const client = new MongoClient("mongodb+srv://jolynn:b1U3%40cr0wnn@sams-students.zk4e44c.mongodb.net/SAMS-students?authSource=admin")
+  const client = new MongoClient("") // Insert link to your own Mongo Client.
   await client.connect()
   db = client.db()
   app.listen(3000)
