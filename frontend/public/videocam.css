@@ -1,0 +1,242 @@
+body { 
+    background-color: white;    
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    overflow: auto;
+} 
+
+nav {
+    position:fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background-color: #0479df;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    line-height: 70px;
+    margin-left: 20px;
+}
+
+nav ul {
+    float: right;
+}
+        
+nav ul li {
+    display: inline-block;
+    font-size: 19px;
+    line-height: 70px;
+    padding: 0 10px;
+}    
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+    
+nav ul li a:hover{
+    color: #042243;
+}
+
+.videoPlayer{
+    position:fixed;
+    top: 140px;
+    left: 10%;
+}
+
+#videoCam { 
+    width: 500px; 
+    height: 300px; 
+    margin-left: 0px; 
+    border: 4px solid white; 
+    background: #282828;
+} 
+
+.buttons{
+    position: relative;
+    width: 500px;
+    left: 0;
+    display: inline;
+}
+
+#startButton { 
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: center;
+    color: #042243;
+    width: 120px; 
+    height: 45px; 
+    cursor: pointer;
+    border: none;
+    background-color: #e4e6e8; 
+} 
+
+#startButton:hover{ 
+    background-color: #647C90; 
+    opacity: 0.4;
+} 
+
+#viewLogButton {
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: center;
+    color: white;
+    width: 300px; 
+    height: 45px; 
+    cursor: pointer;
+    border: none;
+    background-color: #0479df; 
+    margin-left: 80px;
+}
+
+#viewLogButton:hover{ 
+    background-color: #647C90;
+    opacity: 0.4;
+} 
+
+.displayStudentRecognised{
+    position:fixed;
+    top: 120px;
+    left: 700px;
+    width: 380px;
+    height: 480px;
+    background-color: #e4e6e8;
+    line-height: 20px;
+}
+
+#status{
+    position: relative;
+    font-size: 30px;
+    font-weight: bold; 
+    text-align: center;
+    color: #042243;
+}
+
+#studentName{
+    position: relative;
+    font-size: 27px;
+    font-weight: bold; 
+    text-align: center;
+    color: #042243;
+}
+
+#dateTime{
+    position: relative;
+    text-align: center;
+    font-weight:normal;
+    color: #042243;
+}
+
+#studentImg{
+    position: relative;
+    text-align: center;
+    left: 30%;
+    width: 40%;
+}
+
+#confirmButton{
+    position: relative;
+    left: 15%;
+    width: 70%;
+    height: 45px; 
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    border: none;
+    background-color: #0479df; 
+}
+
+#confirmButton:hover{ 
+    background-color: #647C90; 
+    opacity: 0.4;
+} 
+
+#popupWindowOverlay #popup {
+    max-width: 650px;
+    width: 100%;
+    text-align:center;
+    background-color: white;
+    height: 400px;
+}
+
+#popupWindowOverlay {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.6);
+
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.popupHeader {
+    position: relative;
+    font-size: 45px;
+    font-weight: bold; 
+    text-align: center;
+    color: #042243;
+    padding-top: 20px;
+}
+
+.popupContent {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 3px;
+    height: 230px;
+    overflow:auto;
+}
+
+#closePopup { 
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: center;
+    color: #042243;
+    width: 120px; 
+    height: 45px; 
+    cursor: pointer;
+    border: none;
+    background-color: #e4e6e8; 
+} 
+
+#closePopup:hover{ 
+    background-color: #647C90; 
+    opacity: 0.4;
+} 
+
+.styled-table thead tr {
+    background-color: #0479df;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 10px 15px 20px;
+    width: 210px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+    background-color: #ffffff;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #0479df;
+}
